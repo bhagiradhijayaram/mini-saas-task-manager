@@ -58,6 +58,11 @@ npm run dev
 <img width="1920" height="1080" alt="Screenshot (337)" src="https://github.com/user-attachments/assets/be600ec9-9ef5-4731-b53e-037cc56aaf32" />
 <img width="1920" height="1080" alt="Screenshot (338)" src="https://github.com/user-attachments/assets/24d071de-6524-453c-8b40-6e626f091fda" />
 
+## Screen Recording
+URL: https://drive.google.com/file/d/1qKu2CzjCbBGRScYT-wiLFMKbbstw4noU/view?usp=sharing
+
+## Frontend URL
+URL: https://mini-saas-task-manager.vercel.app/
 
 
 
