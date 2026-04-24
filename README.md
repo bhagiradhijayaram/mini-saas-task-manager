@@ -27,3 +27,23 @@ A full-stack task management application where users can securely manage their o
 - MySQL (mysql2/promise)
 - JWT (Authentication)
 - bcryptjs (Password hashing)
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/your-username/mini-saas-task-manager.git
+cd mini-saas-task-manager
+
+### Frontend Setup
+
+cd frontend-saas
+npm install
+npm run dev
+
+### Backend Setup
+
+cd backend-saas
+npm install
+npm run dev
