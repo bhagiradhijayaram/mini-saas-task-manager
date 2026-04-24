@@ -27,5 +27,3 @@ A full-stack task management application where users can securely manage their o
 - MySQL (mysql2/promise)
 - JWT (Authentication)
 - bcryptjs (Password hashing)
-
----
