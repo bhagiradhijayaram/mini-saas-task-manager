@@ -33,5 +33,3 @@ A full-stack task management application where users can securely manage their o
 - bcryptjs (Password hashing)
 
 ---
-
-## 📂 Project Structure
