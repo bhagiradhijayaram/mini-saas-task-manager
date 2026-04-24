@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://mini-saas-task-manager-2.onrender.com/api";
 
 export const api = async (endpoint, method = "GET", body = null) => {
   const token = localStorage.getItem("token");
