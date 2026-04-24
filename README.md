@@ -2,8 +2,6 @@
 
 A full-stack task management application where users can securely manage their own tasks with authentication and CRUD operations.
 
----
-
 ## 📌 Features
 
 - 🔐 User Authentication (Signup & Login)
@@ -14,8 +12,6 @@ A full-stack task management application where users can securely manage their o
 - 🔄 Task status toggle (Pending → Completed)
 - 🎨 Clean and responsive UI
 - ⚡ Real-time updates after actions
-
----
 
 ## 🛠️ Tech Stack
 
