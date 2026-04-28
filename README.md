@@ -32,9 +32,9 @@ A full-stack task management application where users can securely manage their o
 
 ### Project folder structure
 ```
-Mini-SaaS-Task-App/
+mini-saas-task-manager/
 │
-├── backend/                  # Node.js + Express API
+├── backend-saas/             # Node.js + Express API
 │   ├── controllers/          # Functions that handle request logic (e.g., authController.js)
 │   ├── middlewares/          # Custom middleware (e.g., verifyToken.js)
 │   ├── models/               # Sequelize DB schemas (User.js, Task.js)
@@ -42,7 +42,7 @@ Mini-SaaS-Task-App/
 │   ├── .env                  # Secret keys and DB connection strings (Do not push to GitHub!)
 │   └── server.js             # Entry point for the backend
 │
-└── frontend/                 # React UI
+└── frontend-saas/            # React UI
     ├── src/
     │   ├── components/       # Reusable UI parts (e.g., TaskItem.jsx, Navbar.jsx)
     │   ├── pages/            # Full page views (e.g., Login.jsx, Dashboard.jsx)
