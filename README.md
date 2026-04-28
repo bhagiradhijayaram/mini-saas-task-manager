@@ -30,6 +30,27 @@ A full-stack task management application where users can securely manage their o
 
 ## Setup Instructions
 
+### Project folder structure
+```
+Mini-SaaS-Task-App/
+│
+├── backend/                  # Node.js + Express API
+│   ├── controllers/          # Functions that handle request logic (e.g., authController.js)
+│   ├── middlewares/          # Custom middleware (e.g., verifyToken.js)
+│   ├── models/               # Sequelize DB schemas (User.js, Task.js)
+│   ├── routes/               # API route definitions (authRoutes.js, taskRoutes.js)
+│   ├── .env                  # Secret keys and DB connection strings (Do not push to GitHub!)
+│   └── server.js             # Entry point for the backend
+│
+└── frontend/                 # React UI
+    ├── src/
+    │   ├── components/       # Reusable UI parts (e.g., TaskItem.jsx, Navbar.jsx)
+    │   ├── pages/            # Full page views (e.g., Login.jsx, Dashboard.jsx)
+    │   ├── services/         # API call helper functions (e.g., api.js)
+    │   ├── App.jsx           # Main React component and Router
+    │   └── index.css         # Tailwind imports
+    └── package.json
+```
 ### Clone the repository
 
 ```bash
